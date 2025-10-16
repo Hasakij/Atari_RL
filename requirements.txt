@@ -1,0 +1,5 @@
+ale_py==0.8.1
+gymnasium==0.29.1
+imageio==2.37.0
+numpy
+stable_baselines3==2.7.0
