@@ -90,7 +90,7 @@ Weights & Biases Run: https://wandb.ai/34237-politechnika-wroc-awska/ppo-pong-at
 
 Example Gameplay:
 
-![alt text](./assets/ppo_pong.gif)
+![PPO Pong Gameplay](./assets/ppo_pong.gif)
 
 **Double DQN on Breakout**
 
