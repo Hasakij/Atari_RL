@@ -99,3 +99,7 @@ Weights & Biases Run: https://wandb.ai/34237-politechnika-wroc-awska/dqn-atari-b
 Example Gameplay:
 
 ![alt text](./assets/dqn_breakout.gif)
+
+## Acknowledgements
+
+https://github.com/vwxyzjn/ppo-implementation-details
